@@ -10,7 +10,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 📲 Contact
-![discord](https://img.shields.io/badge/!   Lucaa#3169-black?style=flat-square&logo=discord)
 ![discord](https://img.shields.io/badge/lucaa#7526-black?style=flat-square&logo=discord)
 ![discord](https://img.shields.io/badge/Leoon#1820-black?style=flat-square&logo=discord)
 
