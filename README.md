@@ -27,13 +27,10 @@
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
-![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
-![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
 ![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### DevOps & Tools
 
