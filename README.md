@@ -12,11 +12,11 @@
 ## 🚀 Technologies & Tools
 ### Languages
 
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
 ![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
+![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
 
 ### Technologies & Frameworks
 
