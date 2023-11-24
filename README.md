@@ -15,6 +15,7 @@
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![lua](https://img.shields.io/badge/lua-black?style=flat-square&logo=lua&logoColor=blue)
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=blue)
 
 ### Technologies & Frameworks
 
