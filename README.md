@@ -2,7 +2,7 @@
   <a href="https://github.com/uhmpasterig?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fuhmpasterig"/></a>
   <a href="https://github.com/uhmpasterig?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/uhmpasterig?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/uhmpasterig?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
   <a href="https://github.com/uhmpasterig/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=uhmpasterig&style=for-the-badge&color=lightgrey"/></a>
 </p>
@@ -10,41 +10,54 @@
 <summary>
   More stuff about me
 </summary>
-## 🚀 Technologies & Tools
 
-### Languages
+## 📃 Skills 
 
-![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![lua](https://img.shields.io/badge/lua-black?style=flat-square&logo=lua&logoColor=blue)
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
-![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=orange)
+### 👨🏽‍💻 Programming Languages
 
-### Technologies & Frameworks
+- C#
+- JavaScript
+- TypeScript
+- Lua
+- Rust
 
-![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
-![vue.js](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vue.js)
-![react.js](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![tauri](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
-![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-![nest.js](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
+#### 🌐 Web Technologies
 
-### DevOps & Tools
+- Next.js
+- React.js
+- SvelteKit
+- Tauri
+- TailwindCSS
+- UnoCSS
 
-![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
-![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
-![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
-![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
-![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
+- Nest.js
+- Express.js
+- Elysia.js
+- Bun
+- ASP.NET Core
+- Prisma
 
-## ⚡ GitHub Stats
+### 🤖 Tools
 
-<p align="center">
-    <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=uhmpasterig&hide_border=true&theme=dark" />
-    <img height="124px" src="https://github-readme-stats.vercel.app/api?username=uhmpasterig&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-</details>
+- VS Code
+- Git/Github 
+- Windows
+- Linux (Mainly using/working with: Arch, Debian, Ubuntu)
+- Docker
+- Postman
+- Databases:
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  - Redis
+
+### Languages 🌐
+- English 
+- German (native)
+
+## My Goals for 2024 📚
+
+- Learning C++ more in depth 
+- Getting used to Microservice Architecture
+- Being more Active on Github again
+- Building a nice looking Portfolio for myself
