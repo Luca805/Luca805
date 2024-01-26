@@ -8,10 +8,13 @@
 </p>
 <details>
 <summary>
-  More stuff about me
+  👆🏽 Click here for more interesting stuff about me
 </summary>
 
-## 📃 Skills 
+### ℹ Disclaimer about my profile
+I had to remove my 2 biggest repos due to legal issues, currently trying to get them back online :(
+
+## 📃 Skills
 
 ### 👨🏽‍💻 Programming Languages
 
@@ -39,7 +42,7 @@
 ### 🤖 Tools
 
 - VS Code
-- Git/Github 
+- Git/Github
 - Windows
 - Linux (Mainly using/working with: Arch, Debian, Ubuntu)
 - Docker
@@ -51,12 +54,13 @@
   - Redis
 
 ### Languages 🌐
-- English 
+
+- English
 - German (native)
 
 ## My Goals for 2024 📚
 
-- Learning C++ more in depth 
+- Learning C++ more in depth
 - Getting used to Microservice Architecture
 - Being more Active on Github again
 - Building a nice looking Portfolio for myself
