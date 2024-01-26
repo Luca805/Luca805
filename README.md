@@ -6,8 +6,12 @@
   <a href="https://github.com/uhmpasterig/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=uhmpasterig&style=for-the-badge&color=lightgrey"/></a>
 </p>
-
+<details>
+<summary>
+  More stuff about me
+</summary>
 ## 🚀 Technologies & Tools
+
 ### Languages
 
 ![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp&logoColor=purple)
@@ -15,20 +19,17 @@
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![lua](https://img.shields.io/badge/lua-black?style=flat-square&logo=lua&logoColor=blue)
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
-![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c&logoColor=blue)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust&logoColor=orange)
 
 ### Technologies & Frameworks
 
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
-![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![vue.js](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vue.js)
-![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![react.js](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
+![tauri](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
+![nest.js](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 
 ### DevOps & Tools
 
@@ -46,3 +47,4 @@
 <p align="center">
     <img height="124px" src="https://github-readme-streak-stats.herokuapp.com/?user=uhmpasterig&hide_border=true&theme=dark" />
     <img height="124px" src="https://github-readme-stats.vercel.app/api?username=uhmpasterig&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+</details>
