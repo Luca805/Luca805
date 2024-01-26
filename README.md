@@ -21,7 +21,7 @@
 - Lua
 - Rust
 
-#### 🌐 Web Technologies
+### 🌐 Web Technologies
 
 - Next.js
 - React.js
@@ -29,7 +29,6 @@
 - Tauri
 - TailwindCSS
 - UnoCSS
-
 - Nest.js
 - Express.js
 - Elysia.js
