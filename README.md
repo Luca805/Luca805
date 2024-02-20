@@ -53,11 +53,6 @@ I had to remove my 2 biggest repos due to legal issues, currently trying to get 
   - MongoDB
   - Redis
 
-### Languages 🌐
-
-- English
-- German (native)
-
 ## My Goals for 2024 📚
 
 - Learning C++ more in depth
