@@ -53,6 +53,9 @@ I had to remove my 2 biggest repos due to legal issues, currently trying to get 
   - MongoDB
   - Redis
 
+### 🏆 Most Used Languages
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uhmpasterig&show_icons=true&locale=en&layout=compact" alt="uhmpasterig" />
+
 ## My Goals for 2024 📚
 
 - Learning C++ more in depth
